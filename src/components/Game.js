@@ -55,7 +55,7 @@ function Game() {
 
   return (
     <div style={{ textAlign: "center", padding: "2rem", fontFamily: "sans-serif" }}>
-      <h1 style={{ fontSize: "2rem", fontWeight: "bold" }}>자음들레</h1>
+      <h1 style={{ fontSize: "2rem", fontWeight: "bold" }}>Kordle</h1>
       <p>힌트 (초성): <strong>{hint}</strong></p>
 
       <div style={{ marginBottom: "1rem" }}>
